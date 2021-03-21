@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "uenr-robotics-website",
+    "staging": "uenr-robotics-website"
+  }
+}
